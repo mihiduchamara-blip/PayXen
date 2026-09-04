@@ -1,19 +1,19 @@
-# @babel/generator
+# @babel/helper-validator-identifier
 
-> Turns an AST into code.
+> Validate identifier/keywords name
 
-See our website [@babel/generator](https://babeljs.io/docs/babel-generator) for more information or the [issues](https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20generator%22+is%3Aopen) associated with this package.
+See our website [@babel/helper-validator-identifier](https://babeljs.io/docs/babel-helper-validator-identifier) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save-dev @babel/generator
+npm install --save @babel/helper-validator-identifier
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/generator --dev
+yarn add @babel/helper-validator-identifier
 ```
